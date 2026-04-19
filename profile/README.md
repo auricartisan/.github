@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://auricartisan.com/images/brand/logo.svg" alt="Auric Artisan Logo" width="560" height="160"><br>
-    <h1>Auric Artisan — Advanced Color Science & Creative Platform</h1>
+    <h1>Auric Artisan — Color Science & Creative Platform</h1>
     <p>
         A browser-first, system-driven environment for color science, accessibility, and creative simulation.<br>
         <em>Not just a tool — a modular, extensible platform for learners, creators, and researchers.</em>
