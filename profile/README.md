@@ -82,6 +82,5 @@
 <div align="right">
 
 _File: `README.md` — Styled for Auric Artisan._  
-_For suggestions or contributions, open an issue or contact the team._
 
 </div>
