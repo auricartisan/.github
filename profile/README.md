@@ -5,23 +5,21 @@
 <img
   src="https://auricartisan.com/images/brand/logo.svg"
   alt="Auric Artisan"
-  width="520"
+  width="300"
 />
-
-<br>
 
 # Auric Artisan
 
 ### Tools That Respect Intelligence.
 
-**An independent software studio building thoughtful digital products through technology, creativity, and craftsmanship.**
+**Color, accessibility, and visual intelligence software for clearer digital decisions.**
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-auricartisan.com-f28c28?style=for-the-badge&labelColor=171717)](https://auricartisan.com)
-[![Founder](https://img.shields.io/badge/Founder-Chirag%20Bansal-e54b4b?style=for-the-badge&labelColor=171717)](https://leacb.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Auric%20Artisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717)](https://www.linkedin.com/company/auric-artisan/)
-[![X](https://img.shields.io/badge/X-@auricartisan-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=171717)](https://x.com/auricartisan)
+[![Website](https://img.shields.io/badge/Website-auricartisan.com-F59E0B?style=for-the-badge&labelColor=18181B)](https://auricartisan.com)
+[![Explore Tools](https://img.shields.io/badge/Explore-Tools-EF4444?style=for-the-badge&labelColor=18181B)](https://auricartisan.com/tools/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Auric_Artisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181B)](https://www.linkedin.com/company/auric-artisan/)
+[![X](https://img.shields.io/badge/X-@auricartisan-FFFFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=18181B)](https://x.com/auricartisan)
 
 </div>
 
@@ -29,150 +27,225 @@
 
 ## About Auric Artisan
 
-**Auric Artisan** is the connected home for the software, tools, experiments, and ideas we create.
+**Auric Artisan** builds software for color, accessibility, visual perception, and design-system intelligence.
 
-We work at the intersection of technology and creativity, exploring how thoughtful software can help people understand complex systems, make informed decisions, and create with greater confidence.
+Our tools help people inspect websites, evaluate contrast, understand palettes, simulate vision conditions, analyze color relationships, and turn complex results into practical next steps.
 
-Our work is guided by one principle:
+We focus on making technically capable software feel clear, useful, and approachable—without hiding the reasoning behind the result.
 
-> **Good tools should explain, guide, and empower—not overwhelm.**
-
-Auric Artisan was founded by **[Chirag Bansal](https://leacb.com)** and continues to grow through research, experimentation, careful engineering, and continuous improvement.
+> **Tools That Respect Intelligence.**
 
 ---
 
 ## What We Build
 
-Our work is not limited to one product or category. Auric Artisan brings together several areas of exploration under one identity.
+### Website and Accessibility Analysis
 
-### Software and Digital Products
+Analyze websites for visual and accessibility issues, including:
 
-We design and develop tools that solve practical problems while remaining clear, reliable, and approachable.
+- Contrast and readability problems
+- WCAG-related checks
+- Color-vision risks
+- Palette extraction
+- Prioritized recommendations
+- Exportable reports
 
-### Creative Technology
+### Color Tools and Libraries
 
-We explore the space between engineering and visual expression through interactive systems, simulations, design tools, and experimental interfaces.
+Explore and create reusable color systems through:
 
-### Developer Tools
+- Color libraries
+- Palette generation
+- Gradient creation
+- Harmony exploration
+- Tints, shades, and tonal steps
+- Color conversion and inspection
 
-We build utilities and workflows intended to improve development, experimentation, documentation, and technical understanding.
+### Color Science Systems
 
-### Color and Accessibility
+Work with advanced color models and visual-analysis tools, including:
 
-Some of our work focuses on color science, visual perception, contrast, inclusive design, and accessible digital experiences.
+- Color spaces
+- Chromatic adaptation
+- Color appearance models
+- Spectral analysis
+- Gamut mapping
+- HDR and tone-mapping workflows
+- ICC profile inspection
 
-### Research and Experimentation
+### Vision and Perception Tools
 
-Not every project begins as a finished product. We use prototypes and experimental systems to investigate ideas before deciding where they should go next.
+Preview and examine how visual content may behave across different viewing conditions through:
 
----
+- Color-vision simulations
+- Vision-condition previews
+- Perception demonstrations
+- Gamut visualization
+- Contrast and visibility analysis
 
-## How We Build
+### Creative Utilities
 
-Auric Artisan projects are shaped by a few consistent principles.
+Create, transform, and export visual assets using tools such as:
 
-- **Clarity over unnecessary complexity**  
-  Advanced tools should remain understandable.
-
-- **Craftsmanship over rushed output**  
-  Details matter—from internal architecture to the final experience.
-
-- **Accessibility from the beginning**  
-  Inclusion should be part of the design process, not an afterthought.
-
-- **Privacy with purpose**  
-  We aim to collect only what is genuinely necessary.
-
-- **Honest limitations**  
-  Experimental or educational tools should clearly explain what they can and cannot do.
-
-- **Continuous improvement**  
-  Products evolve through testing, feedback, research, and real-world use.
-
----
-
-## Public Projects
-
-This GitHub organization contains public repositories connected to Auric Artisan.
-
-Projects may include:
-
-- Open-source tools and libraries
-- Developer utilities
-- Technical experiments
-- Website components
-- Documentation
-- Research prototypes
-- Supporting infrastructure
-
-Some Auric Artisan projects remain private while they are being developed, reviewed, or prepared for release.
-
-Explore the repositories below to see what is currently available.
+- ASCII art generation
+- SVG recoloring
+- Image palette extraction
+- LUT creation and preview
+- Personalization systems
+- Multi-gradient generation
 
 ---
 
-## Working With Our Repositories
+## Designed for Real Workflows
 
-Each public repository should include its own documentation covering:
+Auric Artisan is built for people making decisions about digital color and visual communication.
 
-- Project purpose
-- Installation and usage
-- Supported environments
-- Development setup
-- Known limitations
-- Contribution guidelines
-- Licensing
-- Security reporting
+It supports:
 
-Please read the repository-specific documentation before using a project in production.
+- Designers evaluating palettes and contrast
+- Developers implementing accessible interfaces
+- Product teams reviewing visual systems
+- Accessibility professionals checking readability
+- Creators transforming and exporting visual assets
+- Technical users working with color models and display systems
 
-Experimental projects may change significantly between releases.
+The goal is not simply to produce a pass-or-fail result.
 
----
-
-## Educational and Experimental Use
-
-Some Auric Artisan tools involve simulations, visual analysis, accessibility guidance, color calculations, or research-oriented functionality.
-
-Unless a project explicitly states otherwise:
-
-> Outputs should be treated as educational, exploratory, or assistive—not as certified professional, medical, legal, industrial, or regulatory results.
-
-For critical production work, confirm results using the relevant standards, qualified professionals, and certified equipment.
+Auric Artisan explains what was found, why it matters, and what can be improved next.
 
 ---
 
-## Contributing
+## Product Principles
 
-Thoughtful contributions are welcome where a repository accepts them.
+### Clear Results
 
-Before opening a pull request:
+Complex calculations should lead to understandable conclusions and practical actions.
 
-1. Read the repository documentation.
-2. Check existing issues and discussions.
-3. Keep changes focused and well explained.
-4. Add tests or documentation where appropriate.
-5. Respect the project’s design and accessibility goals.
+### Accessibility by Design
 
-Repository-specific contribution rules take priority over this general guidance.
+Accessibility is treated as part of the product and design process—not as a final checkbox.
+
+### Strong Technical Foundations
+
+Our tools are built around established color models, visual-analysis methods, and modern browser capabilities.
+
+### Respectful Software
+
+Products should help users think and work more effectively without unnecessary friction, manipulation, or noise.
+
+### Privacy-Conscious Operation
+
+We aim to collect only what is required to operate and improve our services.
+
+### Practical Exports
+
+Results should be reusable beyond the interface through reports, palettes, data, visual assets, and design-system outputs.
 
 ---
 
-## Security
+## Featured Capabilities
 
-Please do not publicly disclose security vulnerabilities through GitHub issues.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Use the security instructions provided in the relevant repository or contact Auric Artisan directly:
+### Site Analyzer
 
-**[auricartisan.com/contact](https://auricartisan.com/contact/)**
+Inspect a website for:
+
+- Accessibility issues
+- Contrast failures
+- Color-vision risks
+- Extracted palettes
+- Prioritized fixes
+- Exportable findings
+
+[Open Site Analyzer →](https://auricartisan.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### Color Science Lab
+
+Explore advanced systems for:
+
+- Chromatic adaptation
+- Appearance models
+- Spectral analysis
+- Perceptual color spaces
+- Gamut and display workflows
+
+[Explore Color Tools →](https://auricartisan.com/tools/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Vision Simulation
+
+Examine how visual content may appear across different color-vision and viewing conditions.
+
+[Explore Vision Tools →](https://auricartisan.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### Creative Tools
+
+Generate and transform visual assets using palette, gradient, ASCII, SVG, image, and LUT utilities.
+
+[Explore Creative Tools →](https://auricartisan.com/tools/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Our Public Repositories
+
+This GitHub organization contains selected source code, libraries, extensions, tools, documentation, and technical projects developed under Auric Artisan.
+
+Repository availability varies by product. Some systems remain private while they are being developed, tested, or operated as part of the Auric Artisan platform.
+
+Each public repository contains its own setup instructions, technical documentation, supported environments, and licensing information.
+
+---
+
+## Auric Artisan Ecosystem
+
+```text
+Website Analysis
+       │
+       ├── Accessibility and Contrast
+       ├── Palette Extraction
+       ├── Vision Simulation
+       └── Reports and Recommendations
+
+Color Systems
+       │
+       ├── Libraries and Palettes
+       ├── Color Science
+       ├── Gamut and Display Tools
+       └── Design-System Assets
+
+Creative Utilities
+       │
+       ├── Image and SVG Tools
+       ├── ASCII Generation
+       ├── LUT Workflows
+       └── Export Utilities
+```
 
 ---
 
 ## Explore Auric Artisan
 
-- **Website:** [auricartisan.com](https://auricartisan.com)
+- **Website:** [auricartisan.com](https://auricartisan.com/)
 - **About:** [auricartisan.com/about](https://auricartisan.com/about/)
-- **Founder:** [Chirag Bansal](https://leacb.com)
+- **Tools:** [auricartisan.com/tools](https://auricartisan.com/tools/)
 - **Contact:** [auricartisan.com/contact](https://auricartisan.com/contact/)
 - **Privacy:** [auricartisan.com/legal/privacy](https://auricartisan.com/legal/privacy/)
 - **Terms:** [auricartisan.com/legal/terms](https://auricartisan.com/legal/terms/)
@@ -181,14 +254,15 @@ Use the security instructions provided in the relevant repository or contact Aur
 
 <div align="center">
 
-### Technology · Creativity · Craftsmanship
+### Color · Accessibility · Visual Intelligence
 
 **Tools That Respect Intelligence.**
 
 <br>
 
 <sub>
-Built thoughtfully by Auric Artisan.
+Founded and built by
+<a href="https://leacb.com">Chirag Bansal</a>.
 </sub>
 
 </div>
