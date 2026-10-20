@@ -1,268 +1,180 @@
-<!-- Auric Artisan — GitHub Organization Profile -->
+<!-- Auric Artisan | Public GitHub organization profile -->
 
 <div align="center">
 
-<img
-  src="https://auricartisan.com/images/brand/logo.svg"
-  alt="Auric Artisan"
-  width="300"
-/>
+<a href="https://auricartisan.com/">
+  <img src="https://raw.githubusercontent.com/auricartisan/.github/main/assets/auric-artisan-website-banner.png" alt="Auric Artisan — Design color systems people can read." width="1200">
+</a>
 
 # Auric Artisan
 
-### Tools That Respect Intelligence.
+**Tools That Respect Intelligence.**
 
-**Color, accessibility, and visual intelligence software for clearer digital decisions.**
+Color science, accessible design, and creative tools for people who want to understand what they make.
 
-<br>
+[Explore collections](https://auricartisan.com/collections/) &nbsp; · &nbsp; [Read the documentation](https://auricartisan.com/library/documentation/) &nbsp; · &nbsp; [Meet Auric Artisan](https://auricartisan.com/company/about/)
 
-[![Website](https://img.shields.io/badge/Website-auricartisan.com-F59E0B?style=for-the-badge&labelColor=18181B)](https://auricartisan.com)
-[![Explore Tools](https://img.shields.io/badge/Explore-Tools-EF4444?style=for-the-badge&labelColor=18181B)](https://auricartisan.com/tools/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Auric_Artisan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18181B)](https://www.linkedin.com/company/auric-artisan/)
-[![X](https://img.shields.io/badge/X-@auricartisan-FFFFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=18181B)](https://x.com/auricartisan)
+<sub>
+<a href="#platform">Platform</a> &nbsp; / &nbsp;
+<a href="#workflows">Workflows</a> &nbsp; / &nbsp;
+<a href="#collections">Collections</a> &nbsp; / &nbsp;
+<a href="#libraries">Libraries</a> &nbsp; / &nbsp;
+<a href="#documentation">Documentation</a> &nbsp; / &nbsp;
+<a href="#developers">Developers</a>
+</sub>
 
 </div>
 
 ---
 
-## About Auric Artisan
+## Platform
 
-**Auric Artisan** builds software for color, accessibility, visual perception, and design-system intelligence.
-
-Our tools help people inspect websites, evaluate contrast, understand palettes, simulate vision conditions, analyze color relationships, and turn complex results into practical next steps.
-
-We focus on making technically capable software feel clear, useful, and approachable—without hiding the reasoning behind the result.
-
-> **Tools That Respect Intelligence.**
-
----
-
-## What We Build
-
-### Website and Accessibility Analysis
-
-Analyze websites for visual and accessibility issues, including:
-
-- Contrast and readability problems
-- WCAG-related checks
-- Color-vision risks
-- Palette extraction
-- Prioritized recommendations
-- Exportable reports
-
-### Color Tools and Libraries
-
-Explore and create reusable color systems through:
-
-- Color libraries
-- Palette generation
-- Gradient creation
-- Harmony exploration
-- Tints, shades, and tonal steps
-- Color conversion and inspection
-
-### Color Science Systems
-
-Work with advanced color models and visual-analysis tools, including:
-
-- Color spaces
-- Chromatic adaptation
-- Color appearance models
-- Spectral analysis
-- Gamut mapping
-- HDR and tone-mapping workflows
-- ICC profile inspection
-
-### Vision and Perception Tools
-
-Preview and examine how visual content may behave across different viewing conditions through:
-
-- Color-vision simulations
-- Vision-condition previews
-- Perception demonstrations
-- Gamut visualization
-- Contrast and visibility analysis
-
-### Creative Utilities
-
-Create, transform, and export visual assets using tools such as:
-
-- ASCII art generation
-- SVG recoloring
-- Image palette extraction
-- LUT creation and preview
-- Personalization systems
-- Multi-gradient generation
-
----
-
-## Designed for Real Workflows
-
-Auric Artisan is built for people making decisions about digital color and visual communication.
-
-It supports:
-
-- Designers evaluating palettes and contrast
-- Developers implementing accessible interfaces
-- Product teams reviewing visual systems
-- Accessibility professionals checking readability
-- Creators transforming and exporting visual assets
-- Technical users working with color models and display systems
-
-The goal is not simply to produce a pass-or-fail result.
-
-Auric Artisan explains what was found, why it matters, and what can be improved next.
-
----
-
-## Product Principles
-
-### Clear Results
-
-Complex calculations should lead to understandable conclusions and practical actions.
-
-### Accessibility by Design
-
-Accessibility is treated as part of the product and design process—not as a final checkbox.
-
-### Strong Technical Foundations
-
-Our tools are built around established color models, visual-analysis methods, and modern browser capabilities.
-
-### Respectful Software
-
-Products should help users think and work more effectively without unnecessary friction, manipulation, or noise.
-
-### Privacy-Conscious Operation
-
-We aim to collect only what is required to operate and improve our services.
-
-### Practical Exports
-
-Results should be reusable beyond the interface through reports, palettes, data, visual assets, and design-system outputs.
-
----
-
-## Featured Capabilities
+Auric Artisan connects the work of choosing color, checking an interface, exploring perception, and exporting a usable result. Start in a browser, bring the tools into your editor, or use the services in your own projects.
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Site Analyzer
-
-Inspect a website for:
-
-- Accessibility issues
-- Contrast failures
-- Color-vision risks
-- Extracted palettes
-- Prioritized fixes
-- Exportable findings
-
-[Open Site Analyzer →](https://auricartisan.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### Color Science Lab
-
-Explore advanced systems for:
-
-- Chromatic adaptation
-- Appearance models
-- Spectral analysis
-- Perceptual color spaces
-- Gamut and display workflows
-
-[Explore Color Tools →](https://auricartisan.com/tools/)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Vision Simulation
-
-Examine how visual content may appear across different color-vision and viewing conditions.
-
-[Explore Vision Tools →](https://auricartisan.com/)
-
-</td>
-<td width="50%" valign="top">
-
-### Creative Tools
-
-Generate and transform visual assets using palette, gradient, ASCII, SVG, image, and LUT utilities.
-
-[Explore Creative Tools →](https://auricartisan.com/tools/)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; The web studio</h3>
+      <p>Color and accessibility tools, scientific workbenches, reusable libraries, and a place to publish your work.</p>
+      <p><a href="https://auricartisan.com/collections/">Browse collections →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; Inside VS Code</h3>
+      <p>Color, accessibility, and code-health tools, alongside themes, icons, typography, and workspace utilities.</p>
+      <p><a href="https://marketplace.visualstudio.com/publishers/auric-artisan">Explore extensions</a> · <a href="https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/vscode-extensions/README.md">Read the manual →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 &nbsp; On the page</h3>
+      <p>The browser extension brings color picking, contrast checks, vision simulations, and element inspection to the sites you use.</p>
+      <p><a href="https://auricartisan.com/extension">Browser extension</a> · <a href="https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/browser-extension/README.md">Read the manual →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 &nbsp; In your own projects</h3>
+      <p>A REST API for color and accessibility workflows, plus font and icon CDNs for the interfaces you build.</p>
+      <p><a href="#developers">Explore developer resources →</a></p>
+    </td>
+  </tr>
 </table>
 
----
+## Workflows
 
-## Our Public Repositories
+Choose a task, open the tool, and keep its guide or technical reference close by.
 
-This GitHub organization contains selected source code, libraries, extensions, tools, documentation, and technical projects developed under Auric Artisan.
+| I want to… | Start with | Go deeper |
+| :--- | :--- | :--- |
+| Check text and background colors | [Color Contrast Checker](https://auricartisan.com/tool/contrast-checker/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-09-03-contrast-checker-user-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-09-03-contrast-checker-developer-reference) |
+| Review a website's accessibility and visual issues | [URL Analyzer](https://auricartisan.com/tool/analyzer/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-05-24-url-analyzer-ui-ux-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-05-24-url-analyzer-developer-guide) |
+| Build color ramps, typography, and design tokens | [Design System Generator](https://auricartisan.com/tool/design-engine/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-09-03-design-system-generator-user-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-09-03-design-system-generator-developer-reference) |
+| Explore how a design appears under different vision conditions | [Color Blindness Simulator](https://auricartisan.com/tool/vision-simulation/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-05-24-vision-simulation-user-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-05-24-vision-simulation-developer-reference) |
+| Investigate color models, adaptation, and spectra | [Color Science Lab](https://auricartisan.com/tool/color-science-lab/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-05-24-color-science-lab-user-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-05-24-color-science-lab-developer-reference) |
+| Extract a palette from an image | [Image Color Picker](https://auricartisan.com/tool/general/tools/image-picker/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-05-25-image-picker-user-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-05-25-image-picker-developer-reference) |
+| Make a palette, gradient, or quick conversion | [Basic Color Tools](https://auricartisan.com/tool/basic-tools/) | [Guide](https://auricartisan.com/library/documentation/articles/2026-05-24-basic-color-tools-user-guide) · [Reference](https://auricartisan.com/library/documentation/articles/2026-05-24-basic-color-tools-developer-reference) |
 
-Repository availability varies by product. Some systems remain private while they are being developed, tested, or operated as part of the Auric Artisan platform.
+## Collections
 
-Each public repository contains its own setup instructions, technical documentation, supported environments, and licensing information.
+[Collections](https://auricartisan.com/collections/) is the launchpad for the tool catalog. Search by task, filter by category or topic, pin tools, and return to the work you use most.
 
----
+The directory below follows the tools in the collection. Expand it when you want to explore beyond the starting points above.
 
-## Auric Artisan Ecosystem
+<details>
+<summary><strong>Explore the complete tool directory</strong></summary>
 
-```text
-Website Analysis
-       │
-       ├── Accessibility and Contrast
-       ├── Palette Extraction
-       ├── Vision Simulation
-       └── Reports and Recommendations
+### Accessibility & analysis
 
-Color Systems
-       │
-       ├── Libraries and Palettes
-       ├── Color Science
-       ├── Gamut and Display Tools
-       └── Design-System Assets
+[Color Contrast Checker](https://auricartisan.com/tool/contrast-checker/) · [Color Blindness Simulator](https://auricartisan.com/tool/vision-simulation/) · [URL Analyzer](https://auricartisan.com/tool/analyzer/) · [Ishihara Plate Generator](https://auricartisan.com/tool/ishihara-plate-generation/)
 
-Creative Utilities
-       │
-       ├── Image and SVG Tools
-       ├── ASCII Generation
-       ├── LUT Workflows
-       └── Export Utilities
-```
+### Palettes & design systems
 
----
+[Basic Color Tools](https://auricartisan.com/tool/basic-tools/) · [Design System Generator](https://auricartisan.com/tool/design-engine/) · [Tints & Shades Generator](https://auricartisan.com/tool/general/gamut-and-rendering/tonal-steps-tints-shades/) · [Gradient Ramp](https://auricartisan.com/tool/general/tools/m-gradient-palette/) · [Personalization Generator](https://auricartisan.com/tool/personalization-gen/)
 
-## Explore Auric Artisan
+### Type, images & creative assets
 
-- **Website:** [auricartisan.com](https://auricartisan.com/)
-- **About:** [auricartisan.com/about](https://auricartisan.com/about/)
-- **Tools:** [auricartisan.com/tools](https://auricartisan.com/tools/)
-- **Contact:** [auricartisan.com/contact](https://auricartisan.com/contact/)
-- **Privacy:** [auricartisan.com/legal/privacy](https://auricartisan.com/legal/privacy/)
-- **Terms:** [auricartisan.com/legal/terms](https://auricartisan.com/legal/terms/)
+[Image Color Picker](https://auricartisan.com/tool/general/tools/image-picker/) · [Font Library](https://auricartisan.com/tool/font/) · [Icon Library](https://auricartisan.com/tool/icon/) · [SVG Recolor](https://auricartisan.com/tool/general/tools/svg-recolor/) · [LUT Lab](https://auricartisan.com/tool/general/tools/lut-lab/) · [ICC Profile Reader](https://auricartisan.com/tool/general/tools/icc-profile-parser/) · [ASCII Art Generator](https://auricartisan.com/tool/ascii/) · [Collage Maker](https://auricartisan.com/tool/general/tools/collage-maker/)
+
+### Color science & rendering
+
+[Color Science Lab](https://auricartisan.com/tool/color-science-lab/) · [Standard Illuminants](https://auricartisan.com/tool/general/colorimetry/illuminants/) · [Chromatic Adaptation](https://auricartisan.com/tool/general/colorimetry/chromatic-adaptation-dynamic/) · [Gamut Mapping](https://auricartisan.com/tool/general/colorimetry/gamut-map/) · [Gamut Explorer](https://auricartisan.com/tool/general/gamut-and-rendering/gamut/) · [HDR Gamut Plot](https://auricartisan.com/tool/general/gamut-and-rendering/hdr-gamut-plot/) · [Tone Mapping](https://auricartisan.com/tool/general/gamut-and-rendering/tone-mapping/)
+
+### Perception & spectral experiments
+
+[Perception & Vision](https://auricartisan.com/tool/general/perception-and-neuroscience/perception-vision/) · [Visual Pathway](https://auricartisan.com/tool/general/perception-and-neuroscience/neuroscience/) · [Psychophysics Bench](https://auricartisan.com/tool/general/perception-and-neuroscience/psychophysical-experiment-engine/) · [Material Under Light](https://auricartisan.com/tool/general/spectral-tools/material-lighting/) · [Dye in Solution](https://auricartisan.com/tool/general/spectral-tools/industrial-dye-chemistry/)
+
+### Publishing
+
+[Portfolio Builder](https://auricartisan.com/portfolio/)
+
+[How to search, filter, and pin tools](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/website/library/collections/README.md) · [Show basic or advanced tools](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/website/library/collections/docs/show-basic-or-advanced-tools.md)
+
+</details>
+
+## Libraries
+
+Move from a blank canvas to reusable color data. Browse a library, inspect its values, then copy or export the result into your workflow.
+
+| Library | What to explore |
+| :--- | :--- |
+| [Colors](https://auricartisan.com/library/color/) | Individual colors, values, and relationships. |
+| [Palettes](https://auricartisan.com/library/palette/) | Color combinations to inspect and develop. |
+| [Gradients](https://auricartisan.com/library/gradient/) | Multi-stop transitions and interpolation choices. |
+| [Harmonies](https://auricartisan.com/library/harmony/) | Color relationships organized by scheme. |
+| [Shades](https://auricartisan.com/library/shades/) | Tonal scales for interfaces and visual systems. |
+| [Accessibility pairs](https://auricartisan.com/library/accessibility/) | Foreground and background pairs to explore by contrast target. |
+
+Learn the ideas behind the values in [Learn](https://auricartisan.com/library/learn/), or go straight to the [color-space reference](https://auricartisan.com/color-spaces/), [contrast reference](https://auricartisan.com/contrast/), and [WCAG reference](https://auricartisan.com/wcag/).
+
+## Documentation
+
+**Learn the workflow. Understand the method. Know the limits.**
+
+The [documentation library](https://auricartisan.com/library/documentation/) brings together user guides and developer references. The [complete product manual](https://github.com/auricartisan/Auric-Artisan-Docs) covers the website, editor extensions, browser extension, and services with task guides, control references, troubleshooting, and background material.
+
+| Where you are | Read next |
+| :--- | :--- |
+| New to the platform | [Getting started](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/getting-started/README.md) |
+| Choosing or learning a web tool | [Website tool catalog](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/website/tools/README.md) |
+| Setting up your editor | [VS Code extensions](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/vscode-extensions/README.md) |
+| Working on a live web page | [Browser extension](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/browser-extension/README.md) |
+| Integrating fonts, icons, or the API | [Services manual](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/services/README.md) |
+| Solving a problem | [Help and troubleshooting](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/help/README.md) |
+
+Prefer another format? The manual is available as [Markdown](https://github.com/auricartisan/Auric-Artisan-Docs/tree/main/md), [plain text](https://github.com/auricartisan/Auric-Artisan-Docs/tree/main/txt), and [offline HTML, PDF, EPUB, Word, JSON, and CSV](https://github.com/auricartisan/Auric-Artisan-Docs/tree/main/other).
+
+## Developers
+
+Bring the same resources into your own code.
+
+| Resource | Use it for | Documentation |
+| :--- | :--- | :--- |
+| REST API | Color conversion, palette workflows, and accessibility checks. | [API reference](https://auricartisan.com/library/documentation/api/) · [Authentication and usage](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/services/public-api/README.md) |
+| Font CDN | Embed font families and understand loading and self-hosting. | [Font CDN guide](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/services/font-cdn/README.md) |
+| Icon CDN | Use icon collections in your interfaces and review their licenses. | [Icon CDN guide](https://github.com/auricartisan/Auric-Artisan-Docs/blob/main/md/services/icon-cdn/README.md) |
+
+For tool-specific methods, data models, exports, and implementation details, use the **Reference** links in [Workflows](#workflows) or search the [documentation library](https://auricartisan.com/library/documentation/).
+
+## On GitHub
+
+- [**Auric-Artisan-Docs**](https://github.com/auricartisan/Auric-Artisan-Docs) — the product manuals, task guides, and reference material.
+- [**auric-artisan-media**](https://github.com/auricartisan/auric-artisan-media) — public artwork and previews used by the editor extensions.
+- [**All public repositories**](https://github.com/orgs/auricartisan/repositories) — explore the projects available from this organization.
+
+Each repository describes its own setup, scope, and licensing.
+
+## Principles
+
+- **Explain the result.** Make methods, assumptions, and limits visible alongside the findings.
+- **Design for inclusion.** Consider readability, contrast, and different ways of seeing throughout the workflow.
+- **Make work portable.** Help people take palettes, reports, tokens, and visual assets into the next tool.
 
 ---
 
 <div align="center">
 
-### Color · Accessibility · Visual Intelligence
+**Color, considered. Tools That Respect Intelligence.**
 
-**Tools That Respect Intelligence.**
+[Website](https://auricartisan.com/) &nbsp; · &nbsp; [About](https://auricartisan.com/company/about/) &nbsp; · &nbsp; [Contact](https://auricartisan.com/company/contact/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/company/auric-artisan/) &nbsp; · &nbsp; [X](https://x.com/auricartisan)
 
-<br>
-
-<sub>
-Founded and built by
-<a href="https://leacb.com">Chirag Bansal</a>.
-</sub>
+<sub>Founded and built by <a href="https://leacb.com">Chirag Bansal</a>.</sub>
 
 </div>
